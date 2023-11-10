@@ -1,5 +1,6 @@
 {
   "name": "nuxt-starter",
   "defaultDir": "nuxt-app",
+  "url": "https://wearecreator.uk",
   "tar": "https://codeload.github.com/danny-pearson/templates-test/tar.gz/refs/heads/nuxt-starter"
 }
