@@ -1,0 +1,5 @@
+{
+  "name": "nuxt-starter",
+  "defaultDir": "nuxt-app",
+  "tar": "https://codeload.github.com/danny-pearson/templates-test/tar.gz/refs/heads/nuxt-starter"
+}
